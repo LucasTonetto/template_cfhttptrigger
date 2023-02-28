@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cdktf/provider-null": "^5.0.0"
+  }
+}
